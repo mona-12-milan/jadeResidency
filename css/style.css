@@ -628,7 +628,7 @@ color: #644222;
 }
 .sticky-menu .logo{
     margin-top: 0;
-    line-height: 61px;
+    line-height: 1em;
     height: auto;
 }
 .slider-content {
